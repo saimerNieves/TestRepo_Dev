@@ -1,0 +1,5 @@
+<?php 
+
+echo "DEV ENVIRONMENT"
+  
+ 
